@@ -5,7 +5,7 @@
 ~ Backup data<br />
 ~ Restore data<br />
 ~ Remove passcode (emergency purposes only)<br />
-~ Unlock bootlander<br />
+~ Unlock bootloader<br />
 ~ Flash recovery<br />
 <i>Todo: apk reverse engineering commands</i>
 <br />
